@@ -23,7 +23,7 @@ B = np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![OUTPUT](./images1/assignment2.png)
+![OUTPUT](./images/assignment2.png)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by using a python program.
